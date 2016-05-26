@@ -1,0 +1,6 @@
+[submodule "SoGEMM"]
+	path = SoGEMM
+	url = git@github.com:pku-ceca-research/SoGEMM.git
+[submodule "caffe"]
+	path = caffe
+	url = git@github.com:pku-ceca-research/caffe.git
